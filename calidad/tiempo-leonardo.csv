@@ -1,0 +1,6 @@
+fecha,inicio,fin,interrupcion_min,delta_min,fase,actividad,comentarios
+2026-11-09,17:30,18:10,5,35,Planeacion,Lectura de requisitos E0 y eleccion de sector,
+2026-11-09,18:10,19:00,0,50,Diseno,Estructura de repo y plan de datos,
+2026-11-09,19:00,20:00,10,50,Codigo,Extractores Banxico y SNIIM,
+2026-11-09,20:00,20:30,0,30,Pruebas,Ejecucion manual del workflow,
+2026-11-09,20:30,21:15,0,45,Documentacion,Propuesta y ENTREGA.md,
