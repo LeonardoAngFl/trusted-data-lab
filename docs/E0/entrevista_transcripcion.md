@@ -2,7 +2,7 @@
 
 **Entrevistado:** Don Chayo, empacador y comprador de limón (22 años en el sector)
 **Lugar:** Afuera de su bodega, Tecomán, Colima
-**Fecha:** 08/11/2026 · **Duración:** 5 min
+**Fecha:** 08/11/2026 · **Duración:** 20 min
 **Entrevistador:** Leonardo Gerardo Anguiano Flores
 
 ---

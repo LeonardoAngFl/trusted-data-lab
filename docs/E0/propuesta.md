@@ -27,7 +27,7 @@ Colima es uno de los principales estados productores de limón mexicano, y la ec
 | Entrevistado | Don Chayo |
 | Rol en el sector | Empacador y comprador de limón, 22 años de experiencia |
 | Lugar y fecha | Afuera de su bodega, Tecomán, Colima — 08/11/2026 |
-| Medio y duración | Presencial — 5 min |
+| Medio y duración | Presencial — 20 min |
 | Transcripción completa | [`docs/E0/entrevista_transcripcion.md`](entrevista_transcripcion.md) |
 
 ### Preguntas y respuestas (resumen)
